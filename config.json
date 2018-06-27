@@ -1,0 +1,10 @@
+{
+    "hostname" : "INSERT-HOSTNAME",
+    "port": 80,
+    "idToDelete" : [
+        "ID-HERE",
+        "ID-HERE",
+        "ID-HERE"
+    ]
+
+}

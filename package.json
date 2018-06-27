@@ -1,0 +1,12 @@
+{
+  "name": "couchdb-cleaner",
+  "version": "0.1.0",
+  "description": "Clean items based on an ID list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Corentin Laithier",
+  "license": "MIT"
+}
